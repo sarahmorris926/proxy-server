@@ -17,7 +17,7 @@ https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeac
 
 This will add a 'CORS' icon to your extensions that you can access to enable/disable CORS to your browser.  (Note: When active it may cause others error authenticating with Google, Facebook, etc.)
 
-##Long Answer - Proxy Server
+## Long Answer - Proxy Server
 You can setup a proxy server in another repository to act as a 'middleman' between the api you're trying to access and your application.  This will require a new repository.  You can access a boilerplate for this repository here: 
 
 https://github.com/BlaiseRoberts/proxy-server
